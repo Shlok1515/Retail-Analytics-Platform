@@ -135,7 +135,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here:
+
 
 ![Retail Dashboard](dashboards/Retail_Analytics_Dashboard.png)
 
